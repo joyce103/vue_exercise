@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(53, 53, 53) !important;
+}
+#app{
+    padding: 3% 25%;
+    color: rgb(255, 255, 255);
+}
+h1{
+    text-align: center;
+    color: white;
+    padding-bottom: 3%;
+}
+.outer{
+    padding: 5%;
+    border-radius:20px 20px;
+    background-color:rgb(97, 97, 97);
+}
+.navbar .container-fluid{
+    width: 100%;
+    margin: 5px 0;
+    padding: 5px 15px;
+    border-radius:20px 10px;
+    background-color: rgba(0, 0, 100, 0.452);
+}
+.navbar .btn{
+    margin: 5px 2px;
+    border: none;
+    background-color: transparent !important;
+}
+.navbar .btn:hover{
+    color:rgb(255, 224, 166);
+}
